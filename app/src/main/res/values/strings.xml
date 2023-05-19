@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="simplify_your_life_with_our_perfect_note_app" />
+    <string name="log_in">Log In</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="sing_up">Sing up</string>
+</resources>
